@@ -1,2 +1,2 @@
-# Second_project
-Este es un proyecto de prácticas
+# git-exercici
+Aquest és un projecte de pràctiques
